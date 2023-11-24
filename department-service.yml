@@ -2,7 +2,7 @@ server:
   port: 8270
 spring:
   application:
-    name: DEPARTMENT_SERVICE
+    name: DEPARTMENT-SERVICE
   datasource:
     url: jdbc:sqlserver://localhost:1433;encrypt=true;trustServerCertificate=true;databaseName=minsadb
     username: jguerra
